@@ -13,3 +13,7 @@ Repositório criado para praticar o ciclo de vida local do Git, gerenciamento de
 ## Tecnologias Utilizadas
 - Git
 - Markdown
+
+## Objetivos
+- Praticar comandos de ciclo de vida local do Git
+- Aprender a descartar alterações e corrigir histórico
