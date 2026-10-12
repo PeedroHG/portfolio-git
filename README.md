@@ -17,3 +17,5 @@ Repositório criado para praticar o ciclo de vida local do Git, gerenciamento de
 ## Objetivos
 - Praticar comandos de ciclo de vida local do Git
 - Aprender a descartar alterações e corrigir histórico
+
+Linha de teste experimental para demonstrar o git revert.
