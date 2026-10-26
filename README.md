@@ -17,3 +17,6 @@ Repositório criado para praticar o ciclo de vida local do Git, gerenciamento de
 ## Objetivos
 - Praticar comandos de ciclo de vida local do Git
 - Aprender a descartar alterações e corrigir histórico
+
+## Meus Projetos
+Projetos desenvolvidos ao longo do aprendizado de Git:
