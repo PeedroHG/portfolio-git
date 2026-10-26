@@ -22,3 +22,9 @@ Repositório criado para praticar o ciclo de vida local do Git, gerenciamento de
 Projetos desenvolvidos ao longo do aprendizado de Git:
 - `portfolio-git`: Repositório de práticas dos conceitos fundamentais e fluxos de trabalho com Git.
 - `calculadora-web`: Aplicação simples para prática de versionamento e desenvolvimento web.
+
+## Habilidades
+- Git e GitHub (Controle de Versão)
+- Markdown
+- HTML, CSS e JavaScript
+
